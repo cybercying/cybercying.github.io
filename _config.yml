@@ -1,0 +1,15 @@
+title: cybercying.github.io
+description: Cherng-Yann Ing Developer's Website
+
+remote_theme: mmistakes/minimal-mistakes@4.27.1
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author
+author:
+  name             : "Cherng-Yann Ing"
+  avatar           : "https://avatars.githubusercontent.com/u/818341?v=4"
+  bio              : "I am an enthusiastic software developer with a special passion for pursuing the awakening truth behind this reality."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cybercying"
