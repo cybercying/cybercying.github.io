@@ -28,6 +28,12 @@ feature_row:
     url: https://github.com/cybercying/coffee_coupon_full_system_demo
     btn_label: Visit
     btn_class: btn--primary
+  - image_path: /assets/images/coffee_bar.jpg
+    title: The Espresso Expedition
+    excerpt: "Your beginner's guide to espresso: learn the basics, drinks, and tips."
+    url: espresso/
+    btn_label: Visit
+    btn_class: btn--primary
 
 ---
 

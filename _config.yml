@@ -1,5 +1,6 @@
 title: cybercying@github
 description: Cherng-Yann Ing Developer's Website
+baseurl: /
 
 remote_theme: mmistakes/minimal-mistakes@4.27.1
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -23,7 +24,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-titles-from-headings
 
 relative_links:
   enabled: true
   collections: true
+
+titles_from_headings:
+  strip_title: true
