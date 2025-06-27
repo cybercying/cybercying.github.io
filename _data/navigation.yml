@@ -17,10 +17,6 @@ espresso:
       url: /espresso/popular_drinks.html
     - title: "Tips"
       url: /espresso/tips.html
-    - title: "Videos"
-      url: /espresso/videos.html
-    - title: "Coffee Makers"
-      url: /espresso/coffee_makers.html
   - title: Coffee Beans
     children:
     - title: "Bean Basics"
@@ -31,3 +27,9 @@ espresso:
       url: /espresso/bean_blends.html
     - title: "Recommended Products"
       url: /espresso/bean_products.html
+  - title: More
+    children:
+    - title: "Videos"
+      url: /espresso/videos.html
+    - title: "Coffee Makers"
+      url: /espresso/coffee_makers.html

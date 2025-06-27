@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "espresso"
 header:
+  actions:
+    - label: "Next: Bean Basics"
+      url: /espresso/bean_basics.html
   overlay_image: /assets/images/coffee_bar.jpg
 ---
 
