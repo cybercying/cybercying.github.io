@@ -56,3 +56,5 @@ After coffee cherries are picked, the beans must be separated from the fruit. Ho
     * **Characteristics:** Often results in more fruity, sweet, and full-bodied coffees, as the bean absorbs flavors from the drying fruit.
 
 These characteristics combine in countless ways to create the incredible diversity of coffee! Next, let's look at why coffee roasters often combine different beans into "blends."
+
+{% include header_actions %}

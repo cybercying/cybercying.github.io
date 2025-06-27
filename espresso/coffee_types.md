@@ -35,3 +35,5 @@ Here are a few common ways coffee is brewed:
 * **Characteristics:** Highly concentrated, intense flavor, thick body, and topped with crema. It's the base for a whole menu of drinks!
 
 Now that you have a better idea of how espresso fits into the broader coffee landscape, let's look at the key elements that make up an espresso shot.
+
+{% include header_actions %}

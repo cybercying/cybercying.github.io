@@ -41,3 +41,5 @@ You've learned the basics of what espresso is, how it's different from other cof
 * **Enjoy the Process:** Whether you're a seasoned barista or a curious beginner, the world of espresso is meant to be enjoyed. Savor each sip and the rich experience it offers!
 
 We hope this mini-website has given you a solid foundation for understanding espresso. Enjoy your coffee journey!
+
+{% include header_actions %}

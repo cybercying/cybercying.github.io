@@ -32,3 +32,5 @@ Here are the main ingredients and factors for a perfect espresso:
 * **Extraction:** This high pressure is what makes espresso unique. It rapidly extracts the coffee's soluble compounds, creating that concentrated shot with crema in just about 25-30 seconds.
 
 These elements, when balanced correctly, create the magic of espresso! Next, let's see how this powerful shot forms the basis of many beloved coffee drinks.
+
+{% include header_actions %}

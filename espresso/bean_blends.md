@@ -41,3 +41,5 @@ While every roaster has their own unique recipes, many blends aim for similar ou
 Blends are a testament to the art and science of coffee roasting. They allow for creativity and consistency, bringing you a wide array of flavors to explore.
 
 Finally, let's provide some templates for you to add your own brand recommendations.
+
+{% include header_actions %}

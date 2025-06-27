@@ -29,3 +29,5 @@ Think of it like this: if regular coffee is a gentle rain, espresso is a powerfu
 * **Complexity:** A good espresso can have a surprising depth of flavors, from fruity and floral to chocolatey and nutty.
 
 Ready to learn more about how espresso fits into the bigger coffee world? Let's move on to understanding different types of coffee.
+
+{% include header_actions %}

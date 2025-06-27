@@ -45,3 +45,5 @@ Here are some of the most common and beloved espresso-based drinks you'll find a
 * **Characteristics:** This drink highlights the espresso's flavor, with just a tiny bit of milk to soften its intensity. It's not to be confused with the popular caramel macchiato found at some large coffee chains, which is a very different, much sweeter, and milkier drink.
 
 Now that you know the basics of these delicious concoctions, let's wrap up with some simple tips for anyone starting their espresso journey!
+
+{% include header_actions %}

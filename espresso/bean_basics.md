@@ -27,3 +27,5 @@ Every cup of coffee, whether it's drip, pour-over, French press, or espresso, ge
 Understanding the basics of coffee beans is the first step to appreciating the incredible diversity and complexity of coffee. Just like grapes for wine, different coffee beans offer different experiences!
 
 Next, let's explore the key characteristics that make each coffee bean unique.
+
+{% include header_actions %}
