@@ -6,7 +6,7 @@ header:
       url: /espresso/popular_drinks.html
   overlay_image: /assets/images/coffee_bar.jpg
 ---
-# Espresso 101: The Elements of an Espresso Shot
+# Espresso 101: The Elements of an Espresso Shot!
 
 An espresso shot might seem simple – just coffee and water – but it's a delicate balance of several key elements that come together under pressure. Understanding these components will help you appreciate what goes into that little cup!
 
