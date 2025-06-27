@@ -19,3 +19,5 @@ espresso:
       url: /espresso/tips.html
     - title: "Videos"
       url: /espresso/videos.html
+    - title: "Coffee Makers"
+      url: /espresso/coffee_makers.html

@@ -8,5 +8,7 @@ header:
       url: /espresso/journey_begins.html
     - label: "Videos"
       url: /espresso/videos.html
+    - label: "Coffee Makers"
+      url: /espresso/coffee_makers.html
   overlay_image: /assets/images/coffee_bar.jpg
 ---
