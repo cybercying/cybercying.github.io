@@ -12,7 +12,5 @@ header:
       url: /espresso/coffee_makers.html
     - label: "Beans"
       url: /espresso/bean_basics.html
-    - label: "Products"
-      url: /espresso/bean_products.html
   overlay_image: /assets/images/coffee_bar.jpg
 ---
