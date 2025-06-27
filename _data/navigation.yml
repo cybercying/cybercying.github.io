@@ -21,3 +21,13 @@ espresso:
       url: /espresso/videos.html
     - title: "Coffee Makers"
       url: /espresso/coffee_makers.html
+  - title: Coffee Beans
+    children:
+    - title: "Bean Basics"
+      url: /espresso/bean_basics.html
+    - title: "Bean Types"
+      url: /espresso/bean_types.html
+    - title: "Bean Blends"
+      url: /espresso/bean_blends.html
+    - title: "Recommended Products"
+      url: /espresso/bean_products.html
