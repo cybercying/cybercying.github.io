@@ -2,6 +2,8 @@
 title: "The Espresso Expedition"
 excerpt: "Your beginner's guide to espresso: learn the basics, drinks, and tips."
 layout: splash
+sidebar:
+  nav: "espresso"
 header:
   actions:
     - label: "Start Your Journey"
@@ -14,3 +16,5 @@ header:
       url: /espresso/bean_basics.html
   overlay_image: /assets/images/coffee_bar.jpg
 ---
+
+  {% include sidebar.html %}
