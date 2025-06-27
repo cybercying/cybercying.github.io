@@ -6,5 +6,7 @@ header:
   actions:
     - label: "Start Your Journey"
       url: /espresso/journey_begins.html
+    - label: "Videos"
+      url: /espresso/videos.html
   overlay_image: /assets/images/coffee_bar.jpg
 ---

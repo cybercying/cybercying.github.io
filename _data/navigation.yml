@@ -2,3 +2,20 @@
 main:
   - title: "Gnosis Center"
     url: https://cybercying.github.io/doc/
+
+espresso:
+  - title: The Espresso Expidition
+    url: /espresso/
+    children:
+    - title: "Your Journey Begins!"
+      url: /espresso/journey_begins.html
+    - title: "Coffee Types"
+      url: /espresso/coffee_types.html
+    - title: "Shot Elements"
+      url: /espresso/shot_elements.html
+    - title: "Popular Drinks"
+      url: /espresso/popular_drinks.html
+    - title: "Tips"
+      url: /espresso/tips.html
+    - title: "Videos"
+      url: /espresso/videos.html

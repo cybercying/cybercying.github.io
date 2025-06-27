@@ -1,5 +1,7 @@
 ---
 layout: single
+sidebar:
+  nav: "espresso"
 header:
   actions:
     - label: "Next: Tips"

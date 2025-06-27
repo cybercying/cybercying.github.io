@@ -1,5 +1,7 @@
 ---
 layout: single
+sidebar:
+  nav: "espresso"
 header:
   overlay_image: /assets/images/coffee_bar.jpg
 ---
