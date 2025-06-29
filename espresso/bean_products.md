@@ -3,6 +3,9 @@ layout: single
 sidebar:
   nav: "espresso"
 header:
+  actions:
+    - label: "Next: DIY Espresso"
+      url: /espresso/homemaking_espresso_machine.html
   overlay_image: /assets/images/coffee_bean_workshop.jpg
 ---
 # Coffee Beans 101: Product Recommendations
@@ -39,3 +42,6 @@ Now that you're familiar with coffee bean basics, types, roasts, origins, and bl
 ---
 
 Remember, coffee is a journey of taste! Don't be afraid to try different brands and types until you find what you love. Enjoy exploring the vast and delicious world of coffee beans!
+
+
+{% include header_actions %}

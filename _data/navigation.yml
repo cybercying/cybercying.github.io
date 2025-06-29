@@ -27,6 +27,16 @@ espresso:
       url: /espresso/bean_blends.html
     - title: "Recommended Products"
       url: /espresso/bean_products.html
+  - title: DIY Espresso at Home
+    children:
+    - title: "Espresso Machine"
+      url: /espresso/homemaking_espresso_machine.html
+    - title: "Grinder"
+      url: /espresso/homemaking_grinder.html
+    - title: "Essential Tools"
+      url: /espresso/homemaking_tools.html
+    - title: "Lattes and Frothers"
+      url: /espresso/homemaking_latte.html
   - title: More
     children:
     - title: "Videos"

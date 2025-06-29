@@ -1,0 +1,1 @@
+{% include figure popup=true image_path=include.image.url caption=include.image.caption %}
